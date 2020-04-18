@@ -1,0 +1,1 @@
+copy /b Blacklist.*.hosts Blacklists.All.hosts

@@ -1,3 +1,0 @@
-pudelek.pl
-pomponik.pl
-wyborcza.pl
