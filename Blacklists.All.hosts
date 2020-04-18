@@ -1,0 +1,86 @@
+# Proxy blacklist
+#
+# This is a category for vpn-like services that allow to go around the other blacklists.
+
+4everproxy.com
+atozproxy.com
+croxyproxy.com
+free-proxy.com
+free-proxy.cz
+filterbypass.me
+free-proxy-list.net
+freeproxysites.com
+hide.me
+hidemyass.com
+hyperbyte.net
+kproxy.com
+proxfree.com
+proxysite.cc
+proxysite.com
+proxysite.video
+webproxy.to
+vpnproxy.site
+vpnbook.com
+use-application-dns.net# Search Engines blacklist
+#
+# This is a category for Search Engines I don't use.
+
+ask.com
+baidu.com
+bing.com
+discretesearch.com
+duckduckgo.com
+oscobo.com
+yandex.ua
+yandex.com
+yandex.ru
+yahoo.com
+szukaj.wp.pl
+szukaj.onet.pl
+searchencrypt.com
+startpage.com
+
+
+# Suspicious blacklist
+#
+# Suspicious requests observed in network, which doesn't seem necessary for normal functioning of the software or websites I use.
+
+graph.facebook.com
+# Tabloids blacklist
+#
+# "A Wealth Of Information Creates A Poverty Of Attention" /Herbert Simon/
+#
+# This is a category for sites that contain lots of:
+#   * sensationalism
+#   * trivia
+#   * biased news
+#   * fake news
+#   * cheap entertainments
+
+pudelek.pl
+pomponik.pl
+wyborcza.pl
+plotek.pl
+www.gazeta.pl
+demotywatory.pl
+wykop.pl
+wiadomosci.tvp.pl
+bbc.co.uk
+news.bbc.co.uk
+bbc.com
+natemat.pl
+o2.pl
+nocoty.pl
+tvnwarszawa.pl
+tvn24.pl
+rp.pl
+# TV blacklist
+#
+# This is a category for sites that are related to time-consuming entertainment like:
+#   * movies
+#   * tv series
+#   * user-posted videos
+
+aleseriale.pl
+cda.pl
+
