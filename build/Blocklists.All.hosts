@@ -1,6 +1,6 @@
-# Proxy blacklist
+# Proxy blocklist
 #
-# This is a category for vpn-like services that allow to go around the other blacklists.
+# This is a category for vpn-like services that allow to go around the other blocklists.
 
 4everproxy.com
 atozproxy.com
@@ -21,7 +21,7 @@ proxysite.video
 webproxy.to
 vpnproxy.site
 vpnbook.com
-use-application-dns.net# Search Engines blacklist
+use-application-dns.net# Search Engines blocklist
 #
 # This is a category for Search Engines I don't use.
 
@@ -41,12 +41,12 @@ searchencrypt.com
 startpage.com
 
 
-# Suspicious blacklist
+# Suspicious blocklist
 #
 # Suspicious requests observed in network, which doesn't seem necessary for normal functioning of the software or websites I use.
 
 graph.facebook.com
-# Tabloids blacklist
+# Tabloids blocklist
 #
 # "A Wealth Of Information Creates A Poverty Of Attention" /Herbert Simon/
 #
@@ -75,7 +75,7 @@ nocoty.pl
 tvnwarszawa.pl
 tvn24.pl
 rp.pl
-# TV blacklist
+# TV blocklist
 #
 # This is a category for sites that are related to time-consuming entertainment like:
 #   * movies
@@ -85,3 +85,11 @@ rp.pl
 aleseriale.pl
 cda.pl
 
+# TV blocklist
+#
+# This is a category for sites that are related to time-consuming entertainment like:
+#   * movies
+#   * tv series
+#   * user-posted videos
+
+youtube.com

@@ -2,14 +2,14 @@
 
 ## Contents of this repo
 
-This is a repo that helps me sync my domain blacklists and whitelists.
+This is a repo that helps me sync my domain blocklists and allowlists.
 
 I tend to use those lists to block access to some domains on my devices with use of tools like:
 
 * _PiHole_ on Raspberry Pi
 * _personalDnsFilter_ on Android
 
-**I do not recommend reusing those blacklists** by anyone, as they are heavily **personalized** and are in public repo just for my convenience.
+**I do not recommend reusing those blocklists** by anyone, as they are heavily **personalized** and are in public repo just for my convenience.
 
 ## Disclaimer
 

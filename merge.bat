@@ -1,1 +1,2 @@
-copy /b Blacklist.*.hosts Blacklists.All.hosts
+copy /b Blocklist.PC.*.hosts .\build\Blocklists.PC.hosts
+copy /b Blocklist.*.hosts .\build\Blocklists.All.hosts
