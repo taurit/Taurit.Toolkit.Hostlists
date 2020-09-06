@@ -1,3 +1,11 @@
+# Smartphone allowlist
+#
+# This is a category for whitelisted sites, assessed to be necessary for properly functioning software I use.
+!cloudfront.net
+!rsci.app.link
+!app.io.mi.com
+!connectivitycheck.gstatic.com
+!app.adjust.com
 # Proxy blocklist
 #
 # This is a category for vpn-like services that allow to go around the other blocklists.
